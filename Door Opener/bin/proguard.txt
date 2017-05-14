@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:57
+-keep class door.opener.AdddeviceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class door.opener.IndexActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class door.opener.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class door.opener.ManagedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class door.opener.SettingActivity { <init>(...); }
+
